@@ -33,9 +33,11 @@
 - [WorkBuddy 官网（国内版）](https://www.workbuddy.cn/) - 产品首页，下载入口、功能演示与最新活动都在这里.
 - [WorkBuddy 官网（海外版）](https://www.workbuddy.ai/) - 国际版官网，面向海外用户，支持 Slack / Telegram / Discord 远程联动.
 - [WorkBuddy 官方文档](https://www.workbuddy.ai/docs/workbuddy/) - 从快速上手、创建任务到平台集成的完整官方手册.
+- [WorkBuddy 更新日志](https://www.workbuddy.ai/docs/workbuddy/Changelog) - 官方版本记录，查新功能、修复与行为变化先看这里.
 - [WorkBuddy 官方下载页](https://www.codebuddy.cn/work/) - 客户端下载入口，自动识别 Windows / macOS，新用户注册送 Credits.
 - [官方技能市场说明](https://www.codebuddy.ai/docs/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Skills-Market) - 官方文档对 Skills 市场机制与安装方式的说明.
-- [ClawHub 技能注册表](https://clawhub.ai/) - OpenClaw / WorkBuddy 通用的官方技能仓库，数千个 Skills 可检索安装.
+- [SkillHub 技能市场](https://skillhub.cloud.tencent.com/) - 腾讯官方 Skills 社区，可搜索、审核并安装 WorkBuddy 兼容技能.
+- [ClawHub 技能注册表](https://clawhub.ai/) - WorkBuddy 兼容的 OpenClaw 社区技能仓库，数千个 Skills 可检索安装.
 - [Tencent/workbuddy-bench](https://github.com/Tencent/workbuddy-bench) - 腾讯官方开源的评测基准，用真实角色扮演工作任务衡量 Coding Agent 表现.
 - [腾讯官方新闻稿：效率智能体工具集](https://www.tencent.com/zh-cn/articles/2202350.html) - 2026 腾讯云 AI 产业应用大会实录，含 WorkBuddy 企业版与 Agent Suite 发布细节.
 
@@ -93,7 +95,7 @@
 
 - [实操记录：WorkBuddy 企业微信接入](https://cloud.tencent.com/developer/article/2644091) - 腾讯云社区官方实操：智能机器人创建、长连接配置、URL 回调备选方案与排错.
 - [用 WorkBuddy + 腾讯地图 Skills + MCP 做文旅管家](https://lbs.qq.com/article?id=1274) - 腾讯位置服务官方征文作品：mcp.json 配置腾讯地图 MCP Server，美食、酒店、路线一句话搞定.
-- [WorkBuddy 接入微信、飞书、钉钉、企微与 QQ 指南](https://gitcode.csdn.net/69b3a7ec0a2f6a37c596f931.html) - 按平台分步介绍机器人、凭证与回调配置；提交密钥前请核对当前官方文档.
+- [WorkBuddy Assistant 远程控制指南](https://www.workbuddy.ai/docs/workbuddy/Claw) - 官方汇总 Slack、Telegram、企微、飞书、钉钉、QQ 与微信接入教程.
 - [WorkBuddy 接入企业微信：内部与外部配置全流程](https://post.smzdm.com/p/aomlm489) - 腾讯内部免配置开箱即用 vs 外部企业 API 模式机器人配置，两种路径都讲透.
 - [WorkBuddy 接入公众号教程](https://gptprozh.com/notes/workbuddy) - 通过 wechat_oa_api_mcp 实现一句话生成文章、自动排版、推送草稿箱.
 - [WorkBuddy 企业微信玩龙虾实操](https://www.aixq.cc/9898.html) - 企微接入手把手教学，附 2026 年发帖领 Credits 活动攻略（最高 48000 Credits）.
