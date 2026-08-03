@@ -42,8 +42,10 @@
 ## Skills & Plugins 技能与插件
 
 - [awesome-workbuddy-skills](https://github.com/shuangying0001-beep/awesome-workbuddy-skills) - 22 个实战打磨的 SKILL.md 集合：RPA 自动化、浏览器采集、微信生态、Canvas 内容工厂等.
-- [Ldxs001/workbuddy-skills](https://github.com/Ldxs001/workbuddy-skills) - 20+ 自研技能与智能体仓库：本地 RAG、技能规范审查、draw.io 做图、智能周历等，Gitee / GitHub 双平台同步.
+- [Ldxs001/maby_skills](https://github.com/Ldxs001/maby_skills) - 持续维护的 21 个自研 Skills，覆盖本地 RAG、做图、项目管理与技能审查.
 - [workbuddy-wechat-publisher](https://github.com/cnproduct/workbuddy-wechat-publisher) - 公众号全自动发布技能包：写作 → 配图 → 排版 → 推送草稿箱，四个子技能可拆开单用.
+- [workbuddy-usage-status](https://github.com/clancy-feng/workbuddy-usage-status) - 离线统计 Token、积分、模型与会话耗时，生成单文件使用看板.
+- [WorkBuddy 配置健康自检](https://skillhub.cloud.tencent.com/skills/workbuddy-auditor) - 7 维度检查配置、安全与跨会话泄漏，升级后可一键自查.
 - [awesome-website-prompts-and-skills](https://github.com/TencentEdgeOne/awesome-website-prompts-and-skills) - 「WorkBuddy × Tencent EdgeOne 挑战赛」官方作品池，116 个建站 Prompt + 50 个 Skill.
 - [survey-scale-review](https://github.com/gtskevin/survey-scale-review) - 问卷量表审查 Skill，仓库内附专门的 WorkBuddy 安装指南，不会命令行也能装.
 - [7q-decision-skill](https://github.com/reallysix/7q-decision-skill) - 孙子兵法「五事七计」决策框架 Skill，附 workbuddy-guide.md 演示如何装入 WorkBuddy 并发布到 ClawHub.
