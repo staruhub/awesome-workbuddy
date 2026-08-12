@@ -178,7 +178,7 @@ const chipDefs = [
     </section>
 
     <!-- RECENT UPDATES -->
-    <section data-reveal="1" style="background:var(--bgsoft); border-bottom:1px solid var(--line);">
+    <section id="updates" data-reveal="1" style="background:var(--bgsoft); border-bottom:1px solid var(--line);">
       <div data-wrap="1" style="max-width:1240px; margin:0 auto; padding:56px 32px 60px;">
         <div style="display:flex; align-items:center; gap:12px; margin-bottom:28px;">
           <span style="font-family:'JetBrains Mono',monospace; font-size:12px; letter-spacing:0.08em; color:#12B981;">RECENT UPDATES</span>
@@ -409,6 +409,7 @@ const chipDefs = [
           <div style="display:flex; align-items:center; gap:9px; font-size:14.5px; font-weight:700;"><span style="width:7px; height:7px; background:#12B981; display:block;"></span>本站内容</div>
           <div style="height:1px; background:var(--line2); margin:14px 0 16px;"></div>
           <div style="display:flex; flex-direction:column; gap:10px; font-size:13.5px; color:var(--t3);">
+            <a href="#updates" style="color:var(--t3);">最近更新</a>
             <a href="#resources" style="color:var(--t3);">资源清单</a>
             <a href={promptsHref} style="color:var(--t3);">{promptTotal} 条 Prompts</a>
           </div>
