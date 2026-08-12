@@ -33,7 +33,7 @@
 - [WorkBuddy 官网（国内版）](https://www.workbuddy.cn/) - 产品首页，下载入口、功能演示与最新活动都在这里.
 - [WorkBuddy 官网（海外版）](https://www.workbuddy.ai/) - 国际版官网，面向海外用户，支持 Slack / Telegram / Discord 远程联动.
 - [WorkBuddy 官方文档](https://www.workbuddy.ai/docs/workbuddy/) - 从快速上手、创建任务到平台集成的完整官方手册.
-- [WorkBuddy 更新日志](https://www.workbuddy.ai/docs/workbuddy/Changelog) - 官方版本记录，查新功能、修复与行为变化先看这里.
+- [WorkBuddy 更新日志](https://www.workbuddy.cn/docs/workbuddy/Changelog) - 官方版本记录，查新功能、修复与行为变化先看这里（国内版更新更及时）.
 - [WorkBuddy 官方下载页](https://www.codebuddy.cn/work/) - 客户端下载入口，自动识别 Windows / macOS，新用户注册送 Credits.
 - [官方技能市场说明](https://www.codebuddy.ai/docs/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Skills-Market) - 官方文档对 Skills 市场机制与安装方式的说明.
 - [SkillHub 技能市场](https://skillhub.cloud.tencent.com/) - 腾讯官方 Skills 社区，可搜索、审核并安装 WorkBuddy 兼容技能.

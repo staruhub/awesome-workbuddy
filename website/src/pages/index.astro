@@ -119,6 +119,7 @@ const chipDefs = [
           <img id="wb-logo" src={`${base}/uploads/workbuddy-logo.png`} alt="WorkBuddy" style="height:30px; width:auto; display:block;" />
         </a>
         <nav id="wb-nav" style="display:flex; align-items:center; gap:26px; margin-left:8px; font-size:14px; font-weight:500;">
+          <a href="https://www.workbuddy.cn/docs/workbuddy/Changelog" target="_blank" rel="noopener noreferrer" style="color:#12B981; font-weight:600;">最近更新</a>
           <a href="#resources" style="color:var(--t2);">资源清单</a>
           <a href={promptsHref} style="color:var(--t2);">Prompts</a>
           <a href="https://www.workbuddy.cn/" style="color:var(--t2);">WorkBuddy 官网</a>
@@ -174,6 +175,62 @@ const chipDefs = [
         </div>
       </div>
       <img src="https://codebuddy-1328495429.cos.accelerate.myqcloud.com/web/workbuddy/70987efec023ba6c4d65744aafb9fb7c67629a48/assets/scenario1-feature1-BPMObM4f.png" alt="" id="wb-mascot" style="position:absolute; left:24px; bottom:0; width:190px; height:auto; pointer-events:none; user-select:none;" />
+    </section>
+
+    <!-- RECENT UPDATES -->
+    <section data-reveal="1" style="background:var(--bgsoft); border-bottom:1px solid var(--line);">
+      <div data-wrap="1" style="max-width:1240px; margin:0 auto; padding:56px 32px 60px;">
+        <div style="display:flex; align-items:center; gap:12px; margin-bottom:28px;">
+          <span style="font-family:'JetBrains Mono',monospace; font-size:12px; letter-spacing:0.08em; color:#12B981;">RECENT UPDATES</span>
+          <span style="flex:1; height:1px; background:var(--line2);"></span>
+          <a href="https://www.workbuddy.cn/docs/workbuddy/Changelog" target="_blank" rel="noopener noreferrer" style="font-family:'JetBrains Mono',monospace; font-size:12px; color:var(--t5);">完整更新日志 ↗</a>
+        </div>
+        <h2 style="margin:0 0 24px 0; font-family:'Archivo','Noto Sans SC',sans-serif; font-weight:900; font-size:clamp(26px,5.4vw,36px); letter-spacing:-0.03em;">WorkBuddy 最近更新</h2>
+        <div style="display:grid; gap:14px;">
+          <div style="background:var(--card); border:1px solid var(--line); border-radius:14px; padding:20px 22px;">
+            <div style="display:flex; align-items:center; gap:10px; margin-bottom:12px;">
+              <span style="font-family:'JetBrains Mono',monospace; font-size:13px; font-weight:700; color:#12B981;">5.3.12</span>
+              <span style="font-family:'JetBrains Mono',monospace; font-size:11.5px; color:var(--t6);">2026-08-12</span>
+              <span style="display:inline-flex; align-items:center; gap:5px; background:rgba(18,185,129,0.1); color:#12B981; font-size:11px; font-weight:700; padding:3px 9px; border-radius:999px;">最新</span>
+            </div>
+            <ul style="margin:0; padding-left:20px; font-size:14px; line-height:1.85; color:var(--t2);">
+              <li>灵感分享口令</li>
+              <li>弱网/休眠后续聊更稳</li>
+              <li>修复：大 Markdown 卡死、中文路径 Access denied、白屏、本地助理内存、锁屏远程状态丢失等</li>
+            </ul>
+          </div>
+          <div style="background:var(--card); border:1px solid var(--line); border-radius:14px; padding:20px 22px;">
+            <div style="display:flex; align-items:center; gap:10px; margin-bottom:12px;">
+              <span style="font-family:'JetBrains Mono',monospace; font-size:13px; font-weight:700; color:var(--t1b);">5.3.11</span>
+              <span style="font-family:'JetBrains Mono',monospace; font-size:11.5px; color:var(--t6);">2026-08-07</span>
+            </div>
+            <ul style="margin:0; padding-left:20px; font-size:14px; line-height:1.85; color:var(--t2);">
+              <li>企微/微信助理逐字流式；可先发文件再补文字</li>
+              <li>对话显示每轮耗时；任务批量删除/归档</li>
+              <li>「我安装的」技能本地搜索；开机自启；改昵称</li>
+              <li>Python 类连接器运行时</li>
+            </ul>
+          </div>
+          <div style="background:var(--card); border:1px solid var(--line); border-radius:14px; padding:20px 22px;">
+            <div style="display:flex; align-items:center; gap:10px; margin-bottom:12px;">
+              <span style="font-family:'JetBrains Mono',monospace; font-size:13px; font-weight:700; color:var(--t1b);">5.3.3</span>
+              <span style="font-family:'JetBrains Mono',monospace; font-size:11.5px; color:var(--t6);">2026-07-21</span>
+              <span style="display:inline-flex; align-items:center; gap:5px; background:var(--bgsoft); border:1px solid var(--line); color:var(--t4); font-size:11px; font-weight:700; padding:3px 9px; border-radius:999px;">功能大版本</span>
+            </div>
+            <ul style="margin:0; padding-left:20px; font-size:14px; line-height:1.85; color:var(--t2);">
+              <li>项目计划重构；企业智能体</li>
+              <li>腾讯文档深集成；PPT 内置插件</li>
+              <li>Ardot 画布预览；本地长期记忆可编辑</li>
+              <li>快捷键云同步；意图胶囊推荐 Skill/Plugin/Connector</li>
+              <li>安全中心文件修改自动备份</li>
+            </ul>
+          </div>
+          <div style="padding:16px 22px; font-size:13px; color:var(--t5); text-align:center;">
+            5.3.8–5.3.5 多为稳定性/性能修复 + Buddy AI 国内升配 ·
+            <a href="https://www.workbuddy.cn/docs/workbuddy/Changelog" target="_blank" rel="noopener noreferrer" style="color:#12B981; font-weight:600;">查看完整历史</a>
+          </div>
+        </div>
+      </div>
     </section>
 
     <!-- CATEGORY FILTER BAR -->
