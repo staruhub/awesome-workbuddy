@@ -3,7 +3,7 @@
   "run_id": "prompt-015-chatgpt-5-6-sol-20260731",
   "prompt_id": 15,
   "prompt_sha256": "7cfbb089ad52534fc6fc95c1a26be12be085b95e80b2f8ff759f5a237b5f0846",
-  "prompt_record_sha256": "0f213208a8fb5de363de8c9f2f97c808c7c6ecb3d3a5b809f6f1c8a1041eb35a",
+  "prompt_record_sha256": "2baa3f34b69761c5a74c48354e45a677d08381ae90bf8be4a0382e94c377f96b",
   "runner": {
     "product": "ChatGPT",
     "model": "GPT-5.6 Sol",

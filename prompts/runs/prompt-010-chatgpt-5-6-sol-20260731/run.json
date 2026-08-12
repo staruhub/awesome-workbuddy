@@ -2,8 +2,8 @@
   "schema_version": 2,
   "run_id": "prompt-010-chatgpt-5-6-sol-20260731",
   "prompt_id": 10,
-  "prompt_sha256": "bec6b68e2d09e64da85c3a470630c24d6ab4744f776e87f11fe8e37278304e57",
-  "prompt_record_sha256": "c70b89db9e0128025f0d048106815f907ecad74a35a35bd2f03955402807632f",
+  "prompt_sha256": "484fb81a8f2426e4a3b904cae37d82c6307859e0937bd7431dc555c38aca39f5",
+  "prompt_record_sha256": "6dfb091009655687d1c39bd0a45a2df3f045309e3075fe0953e610a359147c2a",
   "runner": {
     "product": "ChatGPT",
     "model": "GPT-5.6 Sol",
