@@ -33,17 +33,24 @@
 - [WorkBuddy 官网（国内版）](https://www.workbuddy.cn/) - 产品首页，下载入口、功能演示与最新活动都在这里.
 - [WorkBuddy 官网（海外版）](https://www.workbuddy.ai/) - 国际版官网，面向海外用户，支持 Slack / Telegram / Discord 远程联动.
 - [WorkBuddy 官方文档](https://www.workbuddy.ai/docs/workbuddy/) - 从快速上手、创建任务到平台集成的完整官方手册.
+- [WorkBuddy 更新日志](https://www.workbuddy.cn/docs/workbuddy/Changelog) - 官方版本记录，查新功能、修复与行为变化先看这里（国内版更新更及时）.
 - [WorkBuddy 官方下载页](https://www.codebuddy.cn/work/) - 客户端下载入口，自动识别 Windows / macOS，新用户注册送 Credits.
 - [官方技能市场说明](https://www.codebuddy.ai/docs/workbuddy/From-Beginner-to-Expert-Guide/Function-Description/Skills-Market) - 官方文档对 Skills 市场机制与安装方式的说明.
-- [ClawHub 技能注册表](https://clawhub.ai/) - OpenClaw / WorkBuddy 通用的官方技能仓库，数千个 Skills 可检索安装.
+- [SkillHub 技能市场](https://skillhub.cloud.tencent.com/) - 腾讯官方 Skills 社区，可搜索、审核并安装 WorkBuddy 兼容技能.
+- [ClawHub 技能注册表](https://clawhub.ai/) - WorkBuddy 兼容的 OpenClaw 社区技能仓库，数千个 Skills 可检索安装.
 - [Tencent/workbuddy-bench](https://github.com/Tencent/workbuddy-bench) - 腾讯官方开源的评测基准，用真实角色扮演工作任务衡量 Coding Agent 表现.
 - [腾讯官方新闻稿：效率智能体工具集](https://www.tencent.com/zh-cn/articles/2202350.html) - 2026 腾讯云 AI 产业应用大会实录，含 WorkBuddy 企业版与 Agent Suite 发布细节.
 
 ## Skills & Plugins 技能与插件
 
 - [awesome-workbuddy-skills](https://github.com/shuangying0001-beep/awesome-workbuddy-skills) - 22 个实战打磨的 SKILL.md 集合：RPA 自动化、浏览器采集、微信生态、Canvas 内容工厂等.
-- [Ldxs001/workbuddy-skills](https://github.com/Ldxs001/workbuddy-skills) - 20+ 自研技能与智能体仓库：本地 RAG、技能规范审查、draw.io 做图、智能周历等，Gitee / GitHub 双平台同步.
+- [Ldxs001/maby_skills](https://github.com/Ldxs001/maby_skills) - 持续维护的 21 个自研 Skills，覆盖本地 RAG、做图、项目管理与技能审查.
 - [workbuddy-wechat-publisher](https://github.com/cnproduct/workbuddy-wechat-publisher) - 公众号全自动发布技能包：写作 → 配图 → 排版 → 推送草稿箱，四个子技能可拆开单用.
+- [workbuddy-usage-status](https://github.com/clancy-feng/workbuddy-usage-status) - 离线统计 Token、积分、模型与会话耗时，生成单文件使用看板.
+- [WorkBuddy 配置健康自检](https://skillhub.cloud.tencent.com/skills/workbuddy-auditor) - 7 维度检查配置、安全与跨会话泄漏，升级后可一键自查.
+- [infometa/workbuddyskills](https://github.com/infometa/workbuddyskills) - 官方技能市场离线归档：Skills / Connectors / Experts 定期同步，附目录便于检索.
+- [jackbauerxu/workbuddy-xhs-skills](https://github.com/jackbauerxu/workbuddy-xhs-skills) - 小红书冷启动技能包：选题、去 AI 味文案与复盘闭环.
+- [1Panel-dev/CordysCRM-skills](https://github.com/1Panel-dev/CordysCRM-skills) - 1Panel 出品的 AI CRM 销售助手技能，兼容 WorkBuddy / OpenClaw.
 - [awesome-website-prompts-and-skills](https://github.com/TencentEdgeOne/awesome-website-prompts-and-skills) - 「WorkBuddy × Tencent EdgeOne 挑战赛」官方作品池，116 个建站 Prompt + 50 个 Skill.
 - [survey-scale-review](https://github.com/gtskevin/survey-scale-review) - 问卷量表审查 Skill，仓库内附专门的 WorkBuddy 安装指南，不会命令行也能装.
 - [7q-decision-skill](https://github.com/reallysix/7q-decision-skill) - 孙子兵法「五事七计」决策框架 Skill，附 workbuddy-guide.md 演示如何装入 WorkBuddy 并发布到 ClawHub.
@@ -60,11 +67,15 @@
 ## Tutorials & Guides 教程与上手指南
 
 - [WorkBuddy 实战蓝皮书](https://github.com/AlephAITech/WorkBuddyGuide) - 社区共创的开源实战读本：27 章覆盖安装、真实案例、Skill 开发与多 Agent 系统设计，并提供 [在线阅读版](https://workbuddy.homes).
+- [adongwanai/learn-workbuddy](https://github.com/adongwanai/learn-workbuddy) - 24 章用 Python 复刻 WorkBuddy 式 Agent harness：循环、记忆、沙箱与评测.
 - [WorkBuddy 下载安装使用全攻略](https://cloud.tencent.com/developer/article/2638618) - 腾讯云社区官方教程：安装 → 登录 → 权限 → 模型选择 → 远程控制全流程.
 - [零基础入门到精通实操教程](https://cloud.tencent.com/developer/article/2676752) - 手把手带新手 10 分钟上手，附 Credits 积分领取与发文赚积分攻略.
 - [WorkBuddy 从入门到精通（掘金）](https://juejin.cn/post/7620801241318506537) - 界面模块拆解、Craft / Auto / Skills 三种模式与「养虾记录」成就系统介绍.
 - [海外版下载安装使用指南](https://www.tencentcloud.com/techpedia/144100?lang=zh) - TencentCloud 官方出品的海外版上手教程，中英双语.
 - [Skills 完全上手指南](https://xmsumi.com/detail/2691) - 从 30+ 预设技能到外部技能市场，教你搭建个人 AI 工作流.
+- [如何让 WorkBuddy 变身「全能数字员工」：39 个真实案例](https://www.woshipm.com/share/6438541.html) - 人人都是产品经理：Skill / 套件说明与大量可抄作业案例.
+- [WorkBuddy 技能系统深度指南](https://cloud.tencent.com/developer/article/2693324) - 腾讯云社区：搜索、安装、本地创建自定义 Skill 与 SKILL.md 写法，含内网踩坑.
+- [如何用 SkillHub + WorkBuddy 打造个人 AI 助手](https://cloud.tencent.com/developer/article/2697119) - 腾讯云社区：SkillHub 安装路径与自定义技能上手.
 
 ## Deep Dives & Reviews 深度拆解与评测
 
@@ -87,16 +98,23 @@
 - [龙虾大战：OpenClaw vs WorkBuddy 深度测评](https://juejin.cn/post/7632469423668625450) - 定位、上手难度、功能深度、安全性、生态、适用人群六维横评，附评分表.
 - [AutoGLM vs Manus vs WorkBuddy：通用智能体三条路线](https://www.yun88.com/news/9636.html) - 云端 Agent、云端通用 Agent、本地 Agent 的本质差异与选型指南.
 - [CodeBuddy / WorkBuddy / QClaw 怎么选](https://www.leavescn.com/Forums/Detail/18339) - 腾讯「龙虾系」三兄弟的定位辨析：开发者、职场人、个人用户各选哪个.
+- [深度实测 7 天：QClaw 与 WorkBuddy 办公真实上手对比](https://cloud.tencent.com/developer/article/2687513) - 腾讯云社区：连续 7 天对照耗时、输出质量和适用人群.
 - [腾讯拟 20 亿美金下注：WorkBuddy 不够，还要 Manus](https://stock.stockstar.com/SS2026071600013008.shtml) - 证券之星：从战略层面对比 WorkBuddy（企业内部协作）与 Manus（个人目标驱动）的场景差异.
 
 ## Integrations 生态集成
 
+- [cdredfox/workbuddy-skin-studio](https://github.com/cdredfox/workbuddy-skin-studio) - 一张图给 WorkBuddy 桌面换主题（本地 CDP 注入）.
+- [jiang198012/workbuddian](https://github.com/jiang198012/workbuddian) - Obsidian 插件：用本地 WorkBuddy / CodeBuddy CLI 聊笔记库.
+- [xiaoliuzhuan666/workbuddy-account-migrate](https://github.com/xiaoliuzhuan666/workbuddy-account-migrate) - 一键迁移会话、记忆与 MCP 连接到另一个 WorkBuddy 账号.
+- [ChanningYuan/usageBar](https://github.com/ChanningYuan/usageBar) - macOS 菜单栏聚合本地 Token 用量，含 WorkBuddy.
 - [实操记录：WorkBuddy 企业微信接入](https://cloud.tencent.com/developer/article/2644091) - 腾讯云社区官方实操：智能机器人创建、长连接配置、URL 回调备选方案与排错.
 - [用 WorkBuddy + 腾讯地图 Skills + MCP 做文旅管家](https://lbs.qq.com/article?id=1274) - 腾讯位置服务官方征文作品：mcp.json 配置腾讯地图 MCP Server，美食、酒店、路线一句话搞定.
-- [WorkBuddy 接入微信、飞书、钉钉、企微与 QQ 指南](https://gitcode.csdn.net/69b3a7ec0a2f6a37c596f931.html) - 按平台分步介绍机器人、凭证与回调配置；提交密钥前请核对当前官方文档.
+- [WorkBuddy Assistant 远程控制指南](https://www.workbuddy.ai/docs/workbuddy/Claw) - 官方汇总 Slack、Telegram、企微、飞书、钉钉、QQ 与微信接入教程.
+- [WorkBuddy 接入飞书最新教程](https://www.feishu.cn/content/article/7651905073454304222) - 飞书官方：约 2 分钟完成智能体应用与 WebSocket 配置.
 - [WorkBuddy 接入企业微信：内部与外部配置全流程](https://post.smzdm.com/p/aomlm489) - 腾讯内部免配置开箱即用 vs 外部企业 API 模式机器人配置，两种路径都讲透.
 - [WorkBuddy 接入公众号教程](https://gptprozh.com/notes/workbuddy) - 通过 wechat_oa_api_mcp 实现一句话生成文章、自动排版、推送草稿箱.
 - [WorkBuddy 企业微信玩龙虾实操](https://www.aixq.cc/9898.html) - 企微接入手把手教学，附 2026 年发帖领 Credits 活动攻略（最高 48000 Credits）.
+- [MCP 连接器入门](https://juejin.cn/post/7661163954114347059) - 讲清 Skill 与 MCP 连接器差异，以及 mcp.json 配置与信任模型.
 - [WorkBuddy × 李未可 X-AI 记忆眼镜](https://view.inews.qq.com/a/20260718A057YA00) - WAIC 2026 发布的首款 WorkBuddy 硬件生态产品：会议记录自动同步为长期工作记忆.
 
 ## Community 社区与讨论
