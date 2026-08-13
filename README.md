@@ -74,7 +74,7 @@
 - [海外版下载安装使用指南](https://www.tencentcloud.com/techpedia/144100?lang=zh) - TencentCloud 官方出品的海外版上手教程，中英双语.
 - [Skills 完全上手指南](https://xmsumi.com/detail/2691) - 从 30+ 预设技能到外部技能市场，教你搭建个人 AI 工作流.
 - [如何让 WorkBuddy 变身「全能数字员工」：39 个真实案例](https://www.woshipm.com/share/6438541.html) - 人人都是产品经理：Skill / 套件说明与大量可抄作业案例.
-- [WorkBuddy Skill 开发全解](https://segmentfault.com/a/1190000048124226) - SKILL.md 写法、三层架构与发布到 SkillHub 的六步流程.
+- [WorkBuddy 技能系统深度指南](https://cloud.tencent.com/developer/article/2693324) - 腾讯云社区：搜索、安装、本地创建自定义 Skill 与 SKILL.md 写法，含内网踩坑.
 - [如何用 SkillHub + WorkBuddy 打造个人 AI 助手](https://cloud.tencent.com/developer/article/2697119) - 腾讯云社区：SkillHub 安装路径与自定义技能上手.
 
 ## Deep Dives & Reviews 深度拆解与评测
@@ -98,7 +98,7 @@
 - [龙虾大战：OpenClaw vs WorkBuddy 深度测评](https://juejin.cn/post/7632469423668625450) - 定位、上手难度、功能深度、安全性、生态、适用人群六维横评，附评分表.
 - [AutoGLM vs Manus vs WorkBuddy：通用智能体三条路线](https://www.yun88.com/news/9636.html) - 云端 Agent、云端通用 Agent、本地 Agent 的本质差异与选型指南.
 - [CodeBuddy / WorkBuddy / QClaw 怎么选](https://www.leavescn.com/Forums/Detail/18339) - 腾讯「龙虾系」三兄弟的定位辨析：开发者、职场人、个人用户各选哪个.
-- [WorkBuddy、QClaw、EasyClaw、阿里悟空怎么选](https://news.qq.com/rain/a/20260320A086OR00) - 定位、渠道与适用人群对照，补齐 QClaw / EasyClaw 缺口.
+- [深度实测 7 天：QClaw 与 WorkBuddy 办公真实上手对比](https://cloud.tencent.com/developer/article/2687513) - 腾讯云社区：连续 7 天对照耗时、输出质量和适用人群.
 - [腾讯拟 20 亿美金下注：WorkBuddy 不够，还要 Manus](https://stock.stockstar.com/SS2026071600013008.shtml) - 证券之星：从战略层面对比 WorkBuddy（企业内部协作）与 Manus（个人目标驱动）的场景差异.
 
 ## Integrations 生态集成
