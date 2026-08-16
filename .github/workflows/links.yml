@@ -29,6 +29,7 @@ jobs:
         uses: lycheeverse/lychee-action@e7477775783ea5526144ba13e8db5eec57747ce8 # v2.9.0
         with:
           # Exact baseline exceptions, independently browser-reviewed; never widen to whole domains.
+          # blob/main/docs/*: awesome-lint requires absolute GitHub URLs; files land on main after merge.
           args: >-
             --verbose
             --no-progress
@@ -40,6 +41,9 @@ jobs:
             --host-request-interval 250ms
             --method get
             --exclude ^https://github[.]com/staruhub/awesome-workbuddy/stargazers$
+            --exclude ^https://github[.]com/staruhub/awesome-workbuddy/blob/main/docs/guide-projects[.]md$
+            --exclude ^https://github[.]com/staruhub/awesome-workbuddy/blob/main/docs/guide-knowledge-base[.]md$
+            --exclude ^https://github[.]com/staruhub/awesome-workbuddy/blob/main/docs/enterprise-vs-personal[.]md$
             --exclude ^https://lbs[.]qq[.]com/article[?]id=1274$
             --exclude ^https://view[.]inews[.]qq[.]com/a/20260718A057YA00$
             --exclude ^https://www[.]gm7[.]org/archives/126714$
@@ -67,6 +71,7 @@ jobs:
         uses: lycheeverse/lychee-action@e7477775783ea5526144ba13e8db5eec57747ce8 # v2.9.0
         with:
           # Exact baseline exceptions, independently browser-reviewed; never widen to whole domains.
+          # blob/main/docs/*: awesome-lint requires absolute GitHub URLs; files land on main after merge.
           args: >-
             --verbose
             --no-progress
@@ -78,6 +83,9 @@ jobs:
             --host-request-interval 250ms
             --method get
             --exclude ^https://github[.]com/staruhub/awesome-workbuddy/stargazers$
+            --exclude ^https://github[.]com/staruhub/awesome-workbuddy/blob/main/docs/guide-projects[.]md$
+            --exclude ^https://github[.]com/staruhub/awesome-workbuddy/blob/main/docs/guide-knowledge-base[.]md$
+            --exclude ^https://github[.]com/staruhub/awesome-workbuddy/blob/main/docs/enterprise-vs-personal[.]md$
             --exclude ^https://lbs[.]qq[.]com/article[?]id=1274$
             --exclude ^https://view[.]inews[.]qq[.]com/a/20260718A057YA00$
             --exclude ^https://www[.]gm7[.]org/archives/126714$

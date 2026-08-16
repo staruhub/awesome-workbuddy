@@ -44,7 +44,7 @@
 
 - [WorkBuddy 更新日志](https://www.workbuddy.cn/docs/workbuddy/Changelog) - 官方全量版本记录，从 4.5.0 首发到最新 5.3.12（灵感分享口令与移动端连接优化）.
 - [WorkBuddy Enterprise 更新记录](https://cloud.tencent.com/document/product/1831/134324) - 腾讯云文档中心的企业版视角版本更新表.
-- [多端同步上线](https://stock.10jqka.com.cn/20260811/c678856033.shtml) - 2026-08-11：PC / App / 小程序三端任务与产物实时同步，并支持锁屏远程.
+- [多端同步上线](https://www.ithome.com/0/988/278.htm) - 2026-08-11：PC / App / 小程序三端任务与产物实时同步，并支持锁屏远程.
 - [5.3.12 版本速览](https://www.toutiao.com/article/7673111375199306259/) - 2026-08-12：灵感分享口令等新能力与稳定性修复摘要.
 - [个人版订阅升级与定价](https://www.workbuddy.cn/docs/enterprise/price/Pricing) - 2026-07-01 起标准 / 高级 / 旗舰三档体系，以及企业旗舰与专享版定价.
 
@@ -71,9 +71,9 @@
 
 ## Tutorials & Guides 教程与上手指南
 
-- [如何用好 WorkBuddy 项目功能](./docs/guide-projects.md) - 本仓库指南：项目配置注入、分享/转交/多人协作、看板与资产库，附各档配额表.
-- [如何用好知识库功能](./docs/guide-knowledge-base.md) - 本仓库指南：分清资料库、企业 RAG、官方知识库与乐享/网盘连接器，再讲实操闭环.
-- [企业版与个人版区别](./docs/enterprise-vs-personal.md) - 本仓库指南：个人四档与企业三档官方定价对照，以及治理能力与选型建议.
+- [如何用好 WorkBuddy 项目功能](https://github.com/staruhub/awesome-workbuddy/blob/main/docs/guide-projects.md) - 本仓库指南：项目配置注入、分享/转交/多人协作、看板与资产库，附各档配额表.
+- [如何用好知识库功能](https://github.com/staruhub/awesome-workbuddy/blob/main/docs/guide-knowledge-base.md) - 本仓库指南：分清资料库、企业 RAG、官方知识库与乐享/网盘连接器，再讲实操闭环.
+- [企业版与个人版区别](https://github.com/staruhub/awesome-workbuddy/blob/main/docs/enterprise-vs-personal.md) - 本仓库指南：个人四档与企业三档官方定价对照，以及治理能力与选型建议.
 - [WorkBuddy 实战蓝皮书](https://github.com/AlephAITech/WorkBuddyGuide) - 社区共创的开源实战读本：27 章覆盖安装、真实案例、Skill 开发与多 Agent 系统设计，并提供 [在线阅读版](https://workbuddy.homes).
 - [learn-workbuddy](https://github.com/adongwanai/learn-workbuddy) - 从 0 复刻 WorkBuddy 风格桌面 Agent 的 24 章 Python 教程，覆盖 Agent Loop、工具调用与记忆系统.
 - [WorkBuddy 下载安装使用全攻略](https://cloud.tencent.com/developer/article/2638618) - 腾讯云社区官方教程：安装 → 登录 → 权限 → 模型选择 → 远程控制全流程.
