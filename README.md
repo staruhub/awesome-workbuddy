@@ -19,6 +19,7 @@
 ## Contents
 
 - [Official Resources 官方资源](#official-resources-官方资源)
+- [Official Updates 官方更新动态](#official-updates-官方更新动态)
 - [Skills & Plugins 技能与插件](#skills--plugins-技能与插件)
 - [Prompts & Workflows 提示词与工作流](#prompts--workflows-提示词与工作流)
 - [Tutorials & Guides 教程与上手指南](#tutorials--guides-教程与上手指南)
@@ -39,6 +40,14 @@
 - [Tencent/workbuddy-bench](https://github.com/Tencent/workbuddy-bench) - 腾讯官方开源的评测基准，用真实角色扮演工作任务衡量 Coding Agent 表现.
 - [腾讯官方新闻稿：效率智能体工具集](https://www.tencent.com/zh-cn/articles/2202350.html) - 2026 腾讯云 AI 产业应用大会实录，含 WorkBuddy 企业版与 Agent Suite 发布细节.
 
+## Official Updates 官方更新动态
+
+- [WorkBuddy 更新日志](https://www.workbuddy.cn/docs/workbuddy/Changelog) - 官方全量版本记录，从 4.5.0 首发到最新 5.3.12（灵感分享口令与移动端连接优化）.
+- [WorkBuddy Enterprise 更新记录](https://cloud.tencent.com/document/product/1831/134324) - 腾讯云文档中心的企业版视角版本更新表.
+- [多端同步上线](https://www.ithome.com/0/988/278.htm) - 2026-08-11：PC / App / 小程序三端任务与产物实时同步，并支持锁屏远程.
+- [5.3.12 版本速览](https://www.toutiao.com/article/7673111375199306259/) - 2026-08-12：灵感分享口令等新能力与稳定性修复摘要.
+- [个人版订阅升级与定价](https://www.workbuddy.cn/docs/enterprise/price/Pricing) - 2026-07-01 起标准 / 高级 / 旗舰三档体系，以及企业旗舰与专享版定价.
+
 ## Skills & Plugins 技能与插件
 
 - [awesome-workbuddy-skills](https://github.com/shuangying0001-beep/awesome-workbuddy-skills) - 22 个实战打磨的 SKILL.md 集合：RPA 自动化、浏览器采集、微信生态、Canvas 内容工厂等.
@@ -48,6 +57,9 @@
 - [survey-scale-review](https://github.com/gtskevin/survey-scale-review) - 问卷量表审查 Skill，仓库内附专门的 WorkBuddy 安装指南，不会命令行也能装.
 - [7q-decision-skill](https://github.com/reallysix/7q-decision-skill) - 孙子兵法「五事七计」决策框架 Skill，附 workbuddy-guide.md 演示如何装入 WorkBuddy 并发布到 ClawHub.
 - [LinSkills](https://linskills.qiniu.com) - 七牛云维护的社区技能精选库，按下载量排行，ZIP 下载解压即用.
+- [infometa/workbuddyskills](https://github.com/infometa/workbuddyskills) - WorkBuddy 技能、连接器与专家的离线归档，方便备份对照与二次学习.
+- [workbuddy-xhs-skills](https://github.com/jackbauerxu/workbuddy-xhs-skills) - 小红书冷启动到选题、人味文案、视觉规划与复盘的 Agent Skills 套件.
+- [workbuddy-skin-studio](https://github.com/cdredfox/workbuddy-skin-studio) - 给 WorkBuddy 桌面端一键换肤：一张图一个主题，菜单即时切换.
 - [GitHub Topic: workbuddy](https://github.com/topics/workbuddy) - GitHub 上 80+ 个 workbuddy 相关仓库的总入口，找新项目先看这里.
 
 ## Prompts & Workflows 提示词与工作流
@@ -59,7 +71,11 @@
 
 ## Tutorials & Guides 教程与上手指南
 
+- [如何用好 WorkBuddy 项目功能](https://github.com/staruhub/awesome-workbuddy/blob/main/docs/guide-projects.md) - 本仓库指南：项目配置注入、分享/转交/多人协作、看板与资产库，附各档配额表.
+- [如何用好知识库功能](https://github.com/staruhub/awesome-workbuddy/blob/main/docs/guide-knowledge-base.md) - 本仓库指南：分清资料库、企业 RAG、官方知识库与乐享/网盘连接器，再讲实操闭环.
+- [企业版与个人版区别](https://github.com/staruhub/awesome-workbuddy/blob/main/docs/enterprise-vs-personal.md) - 本仓库指南：个人四档与企业三档官方定价对照，以及治理能力与选型建议.
 - [WorkBuddy 实战蓝皮书](https://github.com/AlephAITech/WorkBuddyGuide) - 社区共创的开源实战读本：27 章覆盖安装、真实案例、Skill 开发与多 Agent 系统设计，并提供 [在线阅读版](https://workbuddy.homes).
+- [learn-workbuddy](https://github.com/adongwanai/learn-workbuddy) - 从 0 复刻 WorkBuddy 风格桌面 Agent 的 24 章 Python 教程，覆盖 Agent Loop、工具调用与记忆系统.
 - [WorkBuddy 下载安装使用全攻略](https://cloud.tencent.com/developer/article/2638618) - 腾讯云社区官方教程：安装 → 登录 → 权限 → 模型选择 → 远程控制全流程.
 - [零基础入门到精通实操教程](https://cloud.tencent.com/developer/article/2676752) - 手把手带新手 10 分钟上手，附 Credits 积分领取与发文赚积分攻略.
 - [WorkBuddy 从入门到精通（掘金）](https://juejin.cn/post/7620801241318506537) - 界面模块拆解、Craft / Auto / Skills 三种模式与「养虾记录」成就系统介绍.
@@ -98,6 +114,9 @@
 - [WorkBuddy 接入公众号教程](https://gptprozh.com/notes/workbuddy) - 通过 wechat_oa_api_mcp 实现一句话生成文章、自动排版、推送草稿箱.
 - [WorkBuddy 企业微信玩龙虾实操](https://www.aixq.cc/9898.html) - 企微接入手把手教学，附 2026 年发帖领 Credits 活动攻略（最高 48000 Credits）.
 - [WorkBuddy × 李未可 X-AI 记忆眼镜](https://view.inews.qq.com/a/20260718A057YA00) - WAIC 2026 发布的首款 WorkBuddy 硬件生态产品：会议记录自动同步为长期工作记忆.
+- [wechat-openclaw-channel](https://github.com/HenryXiaoYang/wechat-openclaw-channel) - 把微信包装成 OpenClaw Channel，现已支持 WorkBuddy / QClaw 登录方式.
+- [tencentmeeting-cli](https://github.com/TencentCloud/tencentmeeting-cli) - 腾讯云官方腾讯会议 CLI，topic 含 workbuddy-skill，可纳入会议管理自动化.
+- [workbuddy-remote](https://github.com/vergess3/workbuddy-remote) - 在任意时间、地点、设备上远程使用腾讯 WorkBuddy 的社区方案.
 
 ## Community 社区与讨论
 
@@ -110,6 +129,7 @@
 - [awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - 5400+ 个 OpenClaw 技能按 30+ 分类精选，WorkBuddy 完全兼容 OpenClaw 技能体系.
 - [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - Claude Code 生态精选；WorkBuddy 技能格式与 Claude Code Skill 互通，大量资源可复用.
 - [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - MCP Server 大全，挑一个写进 WorkBuddy 的 mcp.json 即可扩展能力边界.
+- [semlinker/awesome-workbuddy](https://github.com/semlinker/awesome-workbuddy) - 另一份 WorkBuddy 学习资料、案例、提示词与 Skills 导航，可与本清单交叉对照.
 
 ## Contributing
 
