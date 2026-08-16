@@ -51,7 +51,7 @@ function storedMetadata(promptId) {
 
 test('README parser returns every declared non-empty catalog section', () => {
   const result = parseReadmeCatalog(readme);
-  assert.equal(result.categories.length, 9);
+  assert.equal(result.categories.length, 10);
   assert.ok(result.categories.every(({ items }) => items.length > 0));
   assert.equal(
     result.total,

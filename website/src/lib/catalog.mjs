@@ -11,6 +11,7 @@ const PROMPT_SOURCE_URL = new URL(
 
 export const RESOURCE_SECTIONS = Object.freeze([
   { heading: 'Official Resources 官方资源', key: 'official', en: 'Official Resources', zh: '官方资源' },
+  { heading: 'Official Updates 官方更新动态', key: 'updates', en: 'Official Updates', zh: '官方更新动态' },
   { heading: 'Skills & Plugins 技能与插件', key: 'skills', en: 'Skills & Plugins', zh: '技能与插件' },
   { heading: 'Prompts & Workflows 提示词与工作流', key: 'prompts', en: 'Prompts & Workflows', zh: '提示词与工作流' },
   { heading: 'Tutorials & Guides 教程与上手指南', key: 'tutorials', en: 'Tutorials & Guides', zh: '教程与上手指南' },
