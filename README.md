@@ -110,6 +110,7 @@
 - [awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - 5400+ 个 OpenClaw 技能按 30+ 分类精选，WorkBuddy 完全兼容 OpenClaw 技能体系.
 - [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - Claude Code 生态精选；WorkBuddy 技能格式与 Claude Code Skill 互通，大量资源可复用.
 - [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - MCP Server 大全，挑一个写进 WorkBuddy 的 mcp.json 即可扩展能力边界.
+- [Awesome WorkBuddy（双语安全审查目录）](https://github.com/sandbaseai/awesome-workbuddy) - 独立收录经过来源、许可证、权限与数据流审查的 WorkBuddy/CodeBuddy/OpenClaw 资源、Skills、MCP、工作流与文档；不代表腾讯官方背书.
 
 ## Contributing
 
